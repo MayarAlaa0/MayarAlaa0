@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Mayar Alaa</h1>
+<h1 align="center">🌱 I’m currently learning **learning Computer Science**</h1>
+<h1 align="center">🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h1>
 <h3 align="center">A passionontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **learning Computer Science**
+
 
 - 📫 How to reach me **mayaralaa840@gmail.com**
 
