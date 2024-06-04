@@ -16,7 +16,7 @@
 - 📄 My Resume
 <p align="center">
     &emsp;
-    <a href="/Mohamed_Fathy_CV .pdf">
+    <a href="/mayar-alaa-adin-mohran-FlowCV-Resume-20240521 (3).pdf">
         <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
     </a>
 </p>
