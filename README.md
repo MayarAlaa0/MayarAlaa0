@@ -1,12 +1,29 @@
 
-<h1 align="center">Hi 👋, I'm Mayar Alaa</h1>
-<h1 align="center">🌱 I’m currently learning Computer Science <br>
-🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h1>
-<h3 align="center">A passionontend developer from Egypt</h3>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=What's+up+%F0%9F%91%8B;I'am+Mayar+Alaa;And+a+Competitive+programmer+" alt="Typing SVG" /></a>
+</p>
 
+<h3 align="center">🌱 I’m currently learning Computer Science <br>
+🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h3>
+<h4 align="center">A passionontend developer from Egypt</h4>
 
+## About me
+<!-- - 🏫 I am a junior student from [The Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [The Egyptian E-Learning University - EELU](https://www.eelu.edu.eg/) -->
+- 🏫 I am a junior student from <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
 
-- 📫 How to reach me **mayaralaa840@gmail.com**
+- ✍🏻 I love using Software and new technologies to solve problems.
+- 📚 I am currently learning `Computer Science`.
+- 📄 My Resume
+<p align="center">
+    &emsp;
+    <a href="/Mohamed_Fathy_CV .pdf">
+        <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge" alt="Resume" />
+    </a>
+</p>
+
+- 📫 How to reach me <a href="mailto:mayaralaa840@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
