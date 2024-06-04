@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mayar Alaa</h1>
-<h1 align="center">🌱 I’m currently learning **learning Computer Science**</h1>
-<h1 align="center">🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h1>
+<h1 align="center">🌱 I’m currently learning Computer Science <br>
+🌱 I am a Junior at Faculty of Computers & Informatics at The Egyptian E-Learning University - EELU</h1>
 <h3 align="center">A passionontend developer from Egypt</h3>
 
 
@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maya840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maya840" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayar alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayar alaa" height="30" width="40" /></a>
-<a href="https://fb.com/mayar alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayar alaa" height="30" width="40" /></a>
-<a href="https://instagram.com/mayaar_3laa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayaar_3laa" height="30" width="40" /></a>
+<a href="https://x.com/mayar840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maya840" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayar-alaa-0955a1252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayar alaa" height="30" width="40" /></a>
+<a href="https://github.com/MayarAlaa0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayar alaa" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mayaar_3laa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayaar_3laa" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayar-alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayar-alaa" height="30" width="40" /></a>
 </p>
 
