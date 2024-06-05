@@ -64,7 +64,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  height="40" alt="mysql logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="sql server logo" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="sql server logo" />
   <img width="12" />
 </p>
 
@@ -78,4 +78,8 @@
   
 ###
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayarAlaa0&show_icons=true&locale=en&layout=compact" alt="MayarAlaa0" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayarAlaa0&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MayarAlaa0" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MayarAlaa0&show_icons=true&locale=en&theme=tokyonight" alt="MayarAlaa0" />
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MayarAlaa0&&theme=tokyonight" alt="MayarAlaa0" />
