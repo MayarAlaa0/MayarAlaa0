@@ -9,7 +9,7 @@
 
 ## About me
 <!-- - 🏫 I am a junior student from [The Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [The Egyptian E-Learning University - EELU](https://www.eelu.edu.eg/) -->
-- 🏫 I am a junior student from <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
+- 🏫 I am a junior student from <a href="https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://www.eelu.edu.eg/">`The Egyptian E-Learning University - EELU`</a>.
 
 - ✍🏻 I love using Software and new technologies to solve problems.
 - 📚 I am currently learning `Computer Science`.
