@@ -8,6 +8,10 @@
 <h4 align="center">A passionontend developer from Egypt</h4>
 
 ## About me
+
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGUweGl3eTB6YTh6NnpiaW0zajA4bHcwMXJ3MmJxbmR3dXNhOHJpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHxtqyfMyhoWJsUftJ/giphy.webp">
+
+
 <!-- - 🏫 I am a junior student from [The Faculty of Computers & Informatics](https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology) at [The Egyptian E-Learning University - EELU](https://www.eelu.edu.eg/) -->
 - 🏫 I am a junior student from <a href="https://www.eelu.edu.eg/academic-affairs/faculties/faculty-computers-and-information-technology">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://www.eelu.edu.eg/">`The Egyptian E-Learning University - EELU`</a>.
 
